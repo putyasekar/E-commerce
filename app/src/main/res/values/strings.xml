@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+    <string name="large">Large</string>
+    <string name="medium">Medium</string>
+    <string name="my_name">Putya Sekar A.</string>
+    <string name="sshort">Short</string>
+    <string name="textview">TextView</string>
+    <string name="masukkan_text">Masukkan Text</string>
+    <string name="nama">Nama</string>
+    <string name="add_product">add product</string>
+    <string name="get_product">get product</string>
+</resources>
